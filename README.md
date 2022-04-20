@@ -13,7 +13,8 @@ Short guide if you want to use the live web-app.
  2. Download UDS "Deal Sheet" sheet as csv. ("Deal Sheet" > File > Download > Comma-separated values (.csv))
  3. Drang files or click to upload.
  4. Click submit.
- 5. You'll get you updated CoG List back :)
+ 5. You'll get your updated CoG List back.
+ 6. STK > Upload CoG > drag and drop the updated CoG list.
 
 ## How to run
 Short guide if you want to run the software yourself.
